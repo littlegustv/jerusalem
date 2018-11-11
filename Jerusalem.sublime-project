@@ -1,0 +1,25 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"name": "Jerusalem",
+			"path": "C:\\Users\\Benny\\Documents\\Concordia\\Fall 2018\\Arth 369/Jerusalem"
+		},
+		{
+			"follow_symlinks": true,
+			"name": "Flixel",
+			"path": "C:\\HaxeToolkit\\haxe\\lib\\flixel/4,5,1/"
+		},
+		{
+			"follow_symlinks": true,
+			"name": "Flixel Addons",
+			"path": "C:\\HaxeToolkit\\haxe\\lib\\flixel-addons/2,7,0/"
+		},
+		{
+			"follow_symlinks": true,
+			"name": "Haxe",
+			"path": "C:\\HaxeToolkit\\haxe\\std"
+		}
+	]
+}

@@ -1,0 +1,814 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"type",
+				"types_render_field"
+			],
+			[
+				"clo",
+				"cloud__png\tString"
+			],
+			[
+				"dome",
+				"dome__png\tString"
+			],
+			[
+				"po",
+				"getPosition(...)\tflixel.math.FlxPoint"
+			],
+			[
+				"boss",
+				"boss__png\tString"
+			],
+			[
+				"tenf_do_",
+				"tenf_do_book_links"
+			],
+			[
+				"proj",
+				"projectile"
+			],
+			[
+				"FlxTile",
+				"FlxTilemap\tflixel.tile"
+			],
+			[
+				"strt",
+				"strtolower"
+			],
+			[
+				"title",
+				"title_sort"
+			],
+			[
+				"bi",
+				"bibliography"
+			],
+			[
+				"all_",
+				"all_books_query"
+			],
+			[
+				"search_docum",
+				"search_documents_published"
+			],
+			[
+				"search_",
+				"search_documents_published"
+			],
+			[
+				"search_doc",
+				"search_documents_published"
+			],
+			[
+				"all_sear",
+				"all_searchable_document_ids"
+			],
+			[
+				"read_d",
+				"read_documents_query"
+			],
+			[
+				"hide_from_",
+				"hide_from_read_the_works"
+			],
+			[
+				"filter",
+				"filtered_search_documents"
+			],
+			[
+				"books_",
+				"books_titles"
+			],
+			[
+				"qua",
+				"quadInOut( t : Float )\tFloat"
+			],
+			[
+				"P",
+				"PINGPONG\tInt"
+			],
+			[
+				"main",
+				"mainmenu(  )\tVoid"
+			],
+			[
+				"swi",
+				"switchState(...)\tVoid"
+			],
+			[
+				"u",
+				"openURL(...)\tVoid"
+			],
+			[
+				"center",
+				"centerOffsets(...)\tVoid"
+			],
+			[
+				"angle",
+				"angleBetween(...)\tFloat"
+			],
+			[
+				"pos",
+				"setPosition(...)\tVoid"
+			],
+			[
+				"wi",
+				"fullWidth\tInt"
+			],
+			[
+				"load",
+				"loaded_tilemaps\tArray<flixel.addons.editors.tiled.TiledMap>"
+			],
+			[
+				"fl",
+				"parseFloat( x : String )\tFloat"
+			],
+			[
+				"tile",
+				"tileWidth\tInt"
+			],
+			[
+				"ti",
+				"tileWidth\tInt"
+			],
+			[
+				"dist",
+				"distanceBetween(...)\tInt"
+			],
+			[
+				"quad",
+				"quadInOut( t : Float )\tFloat"
+			],
+			[
+				"spikes",
+				"spikes__png\tString"
+			],
+			[
+				"bib",
+				"bibliographies"
+			],
+			[
+				"bibl",
+				"bibliography-tags"
+			],
+			[
+				"e",
+				"each"
+			],
+			[
+				"all_search",
+				"all_searchable_document_ids"
+			],
+			[
+				"all",
+				"all_search_documents"
+			],
+			[
+				"query",
+				"query_string"
+			],
+			[
+				"search",
+				"search_targets"
+			],
+			[
+				"post_tit",
+				"post_titles_by_post_id"
+			],
+			[
+				"highlight",
+				"highlighted_snippet"
+			],
+			[
+				"m",
+				"maxVelocity\tflixel.math.FlxPoint"
+			],
+			[
+				"overl",
+				"overlapsWithCallback(...)\tBool"
+			],
+			[
+				"pushme",
+				"pushme__png\tString"
+			],
+			[
+				"distanceTo",
+				"distanceToPoint(...)\tInt"
+			],
+			[
+				"done",
+				"doneFiltering"
+			],
+			[
+				"bir",
+				"bird__png\tString"
+			],
+			[
+				"br",
+				"breaks__png\tString"
+			],
+			[
+				"FlxSprite",
+				"FlxSpriteUtil\tclass"
+			],
+			[
+				"ind",
+				"indicator__png\tString"
+			],
+			[
+				"switch",
+				"switch__png\tString"
+			],
+			[
+				"keys",
+				"keys_collected"
+			],
+			[
+				"t",
+				"type"
+			],
+			[
+				"prop",
+				"properties\tflixel.addons.editors.tiled.TiledPropertySet"
+			],
+			[
+				"el",
+				"elapsed"
+			],
+			[
+				"exit",
+				"exit_fail__wav\tString"
+			],
+			[
+				"ju",
+				"jump__wav\tString"
+			],
+			[
+				"key",
+				"keys_icon"
+			],
+			[
+				"k",
+				"key__png\tString"
+			],
+			[
+				"TO",
+				"TO_RAD\tFloat"
+			],
+			[
+				"Ra",
+				"RatioScaleMode\tclass"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "source/Main.hx",
+			"settings":
+			{
+				"buffer_size": 180,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/PlayState.hx",
+			"settings":
+			{
+				"buffer_size": 1199,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Project.xml",
+			"settings":
+			{
+				"buffer_size": 3133,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"haxe",
+				"Set Syntax: Haxe"
+			],
+			[
+				"synt",
+				"Set Syntax: Haxe"
+			],
+			[
+				"syntax",
+				"Set Syntax: Haxe"
+			],
+			[
+				"synt json",
+				"Set Syntax: JSON"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Install Package Control"
+			],
+			[
+				"synt hax",
+				"Set Syntax: Haxe"
+			],
+			[
+				"syntax ha",
+				"Set Syntax: Haxe"
+			],
+			[
+				"synta ",
+				"Set Syntax: Haxe"
+			],
+			[
+				"syn",
+				"Set Syntax: Haxe"
+			],
+			[
+				"enable ",
+				"Package Control: Enable Package"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"packag",
+				"Package Control: List Packages"
+			],
+			[
+				"haxe s",
+				"Set Syntax: Haxe"
+			],
+			[
+				"set syntax hax",
+				"Set Syntax: Haxe"
+			],
+			[
+				"synta",
+				"Set Syntax: Haxe"
+			],
+			[
+				"packag enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"package",
+				"Package Control: Disable Package"
+			],
+			[
+				"haxelib",
+				"Haxelib: List all"
+			],
+			[
+				"previe",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"synta hax",
+				"Set Syntax: Haxe"
+			],
+			[
+				"pack insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pACK",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Benny/Documents/Concordia/Fall 2018/Arth 369/Jerusalem",
+		"/C/Users/Benny/Documents/Concordia/Fall 2018/Arth 369/Jerusalem/source"
+	],
+	"file_history":
+	[
+		"/C/Users/Benny/AppData/Local/Temp/fz3temp-2/functions.php",
+		"/C/Users/Benny/AppData/Local/Temp/fz3temp-2/style.css",
+		"/C/Users/Benny/AppData/Local/Temp/fz3temp-2/app.css",
+		"/C/Users/Benny/AppData/Local/Temp/fz3temp-2/style-mobile.css",
+		"/C/Users/Benny/AppData/Local/Temp/fz3temp-2/config.json",
+		"/C/Users/Benny/AppData/Local/Temp/fz3temp-2/rewrites_export.txt",
+		"/C/Users/Benny/AppData/Local/Temp/fz3temp-2/manifest.json",
+		"/C/Users/Benny/AppData/Local/Temp/fz3temp-2/.htaccess",
+		"/C/Users/Benny/AppData/Local/Temp/fz3temp-2/taxonomy-lecturealbum.php",
+		"/C/Users/Benny/AppData/Local/Temp/fz3temp-2/content-lectures.php",
+		"/C/Users/Benny/AppData/Local/Temp/fz3temp-2/page-lectures.php",
+		"/C/Users/Benny/AppData/Local/Temp/fz3temp-2/footer.php",
+		"/C/Users/Benny/AppData/Local/Temp/fz3temp-2/proposal.html",
+		"/C/Users/Benny/AppData/Local/Temp/fz3temp-2/index.html",
+		"/C/Users/Benny/AppData/Local/Temp/fz3temp-2/data.json",
+		"/C/Users/Benny/AppData/Local/Temp/fz3temp-2/main.js",
+		"/C/Users/Benny/AppData/Local/Temp/fz3temp-2/page-bibliography.php",
+		"/C/Users/Benny/AppData/Local/Temp/fz3temp-2/header.php",
+		"/C/Users/Benny/AppData/Local/Temp/fz3temp-2/content-sidebar.css",
+		"/C/Users/Benny/AppData/Local/Temp/fz3temp-2/sidebar-content.css",
+		"/C/Users/Benny/AppData/Local/Temp/fz3temp-2/custom-header.php",
+		"/C/Users/Benny/AppData/Local/Temp/fz3temp-2/home.php",
+		"/C/Users/Benny/AppData/Local/Temp/fz3temp-2/sidebar.php",
+		"/C/Users/Benny/AppData/Local/Temp/fz3temp-2/tenf-book-buttons.php",
+		"/C/Users/Benny/AppData/Local/Temp/fz3temp-2/custom-search-helper.js",
+		"/C/Users/Benny/AppData/Local/Temp/fz3temp-2/content-erh_book.php",
+		"/C/Users/Benny/AppData/Local/Temp/fz3temp-2/single-erh_book.php",
+		"/C/Users/Benny/AppData/Local/Temp/fz3temp-2/taxonomy-bookcategory.php",
+		"/C/Users/Benny/AppData/Local/Temp/fz3temp-2/page-booksbyerh.php",
+		"/C/Users/Benny/AppData/Local/Temp/fz3temp-2/page-booksbyerh-grid.php",
+		"/C/Users/Benny/AppData/Local/Temp/fz3temp-2/template-search.php",
+		"/C/Users/Benny/AppData/Local/Temp/fz3temp-2/page-home.php",
+		"/C/Users/Benny/AppData/Local/Temp/fz3temp-2/single-lectures.php",
+		"/C/Users/Benny/AppData/Local/Temp/fz3temp-2/taxonomy-lectures.php",
+		"/C/Users/Benny/AppData/Local/Temp/fz3temp-2/index 2.html",
+		"/C/Users/Benny/Downloads/index.html",
+		"/C/Users/Benny/Haxe/spiderspiderspider/todo.todo",
+		"/tmp/fz3temp-2/template-search.php",
+		"/tmp/fz3temp-2/template-results.php",
+		"/tmp/fz3temp-2/taxonomy-bookcategory.php",
+		"/tmp/fz3temp-2/functions.php",
+		"/tmp/fz3temp-2/page-bibliography.php",
+		"/tmp/fz3temp-2/style.css",
+		"/home/e1sif/Work/10f/time/TimeDog/config/database.yml",
+		"/tmp/fz3temp-2/custom-search-helper.js",
+		"/tmp/fz3temp-2/tenf-book-buttons.php",
+		"/tmp/fz3temp-2/taxonomy-bookcategory-list.php",
+		"/tmp/fz3temp-2/page-booksbyerh.php",
+		"/tmp/fz3temp-2/page-booksbyerh-grid.php",
+		"/tmp/fz3temp-2/content-erh_book.php",
+		"/tmp/fz3temp-2/single.php",
+		"/tmp/fz3temp-2/single-erh_book.php",
+		"/home/e1sif/Haxe/SpidersSpidersSpiders/icon.svg",
+		"/home/e1sif/Haxe/SpidersSpidersSpiders/assets/xml/menustate.xml",
+		"/home/e1sif/Haxe/SpidersSpidersSpiders/source/MenuState.hx",
+		"/home/e1sif/Haxe/SpidersSpidersSpiders/source/Main.hx",
+		"/tmp/fz3temp-2/index.html",
+		"/home/e1sif/Haxe/SpidersSpidersSpiders/source/PlayState.hx",
+		"/tmp/fz3temp-2/week3.html",
+		"/tmp/fz3temp-2/week2.html",
+		"/tmp/fz3temp-2/week3.md",
+		"/tmp/fz3temp-2/template-test.php",
+		"/home/e1sif/Concordia/September 2018/Cart 351/github/style.css",
+		"/home/e1sif/Concordia/September 2018/Cart 351/github/index.html",
+		"/home/e1sif/Concordia/September 2018/Cart 351/index.html",
+		"/home/e1sif/Concordia/September 2018/Cart 351/style.css",
+		"/home/e1sif/.cache/.fr-sFvvXk/index.html",
+		"/home/e1sif/Work/10f/erhfund/for_xml_import.rb",
+		"/home/e1sif/Haxe/SpidersSpidersSpiders/assets/data/game.tmx",
+		"/home/e1sif/Haxe/SpidersSpidersSpiders/source/Player.hx",
+		"/home/e1sif/Downloads/titles.xml",
+		"/home/e1sif/Work/10f/pluginupdates.rb",
+		"/tmp/fz3temp-2/style-mobile.css",
+		"/tmp/fz3temp-2/front-page.php",
+		"/tmp/fz3temp-2/home.php",
+		"/tmp/fz3temp-2/custom-filter.js",
+		"/tmp/fz3temp-2/archive.php",
+		"/home/e1sif/.config/sublime-text-3/Packages/Haxe/Support/Haxe.sublime-settings",
+		"/tmp/mozilla_e1sif0/results.csv",
+		"/home/e1sif/Work/10f/september contracts.md",
+		"/home/e1sif/Haxe/SpidersSpidersSpiders/Project.xml",
+		"/home/e1sif/Haxe/SpidersSpidersSpiders/assets/data/level1.tmx",
+		"/home/e1sif/Downloads/Diri",
+		"/home/e1sif/rd.tin",
+		"/home/e1sif/spam.tin",
+		"/home/e1sif/Haxe/SpidersSpidersSpiders/assets/xml/playstate.xml",
+		"/home/e1sif/Haxe/SpidersSpidersSpiders/assets/data/world.tmx",
+		"/home/e1sif/Downloads/deploy.md",
+		"/home/e1sif/Downloads/remote2018.todo",
+		"/home/e1sif/Haxe/Docs/documentation/02_handbook/06-flxsave.html.md",
+		"/home/e1sif/Haxe/SpidersSpidersSpiders/assets/data/level0.tmx",
+		"/home/e1sif/Haxe/Docs/documentation/01_tutorial/09-8-pickups.html.md",
+		"/home/e1sif/Haxe/Docs/documentation/01_tutorial/15-14-polish.html.md",
+		"/home/e1sif/Haxe/SpidersSpidersSpiders/todo.todo",
+		"/home/e1sif/.bashrc",
+		"/home/e1sif/Documents/aftermove.todo",
+		"/home/e1sif/sdbmss/VERSION",
+		"/home/e1sif/sdbmss/db/migrate/20180613140425_create_name_places.rb",
+		"/home/e1sif/sdbmss/.docker-environment",
+		"/home/e1sif/Documents/10fdesign.accounting",
+		"/home/e1sif/Documents/move.todo",
+		"/home/e1sif/Haxe/SpidersSpidersSpiders/spiderspiderspider.sublime-project",
+		"/home/e1sif/Documents/sublime license"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"checkbox",
+			"book-list",
+			"h6.",
+			"booksubtit",
+			"subtitle",
+			"h6",
+			"book_",
+			"checkbox",
+			"the_title",
+			"word",
+			"words"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "source/Main.hx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 180,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								160,
+								160
+							]
+						],
+						"settings":
+						{
+							"haxe-build-id": 0,
+							"syntax": "Packages/Haxe/Haxe.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "source/PlayState.hx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1199,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								144,
+								144
+							]
+						],
+						"settings":
+						{
+							"haxe-build-id": 0,
+							"syntax": "Packages/Haxe/Haxe.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 446.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Project.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3133,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								914,
+								914
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Jerusalem.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"menust",
+				"assets\\xml\\menustate.xml"
+			],
+			[
+				"menu",
+				"source/MenuState.hx"
+			],
+			[
+				"main",
+				"source/Main.hx"
+			],
+			[
+				"menus",
+				"source/MenuState.hx"
+			],
+			[
+				"proje",
+				"Project.xml"
+			],
+			[
+				"proj",
+				"Project.xml"
+			],
+			[
+				"menusta",
+				"source/MenuState.hx"
+			],
+			[
+				"world",
+				"assets/data/world.tmx"
+			],
+			[
+				"PROJ",
+				"Project.xml"
+			],
+			[
+				"pro",
+				"Project.xml"
+			],
+			[
+				"level",
+				"assets/data/level0.tmx"
+			],
+			[
+				"playst",
+				"source/PlayState.hx"
+			],
+			[
+				"projec",
+				"Project.xml"
+			],
+			[
+				"mai",
+				"source/Main.hx"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 251.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
