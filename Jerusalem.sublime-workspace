@@ -4,6 +4,34 @@
 		"selected_items":
 		[
 			[
+				"alph",
+				"alphaMaskFlxSprite(...)\tflixel.FlxSprite"
+			],
+			[
+				"mask",
+				"mask__png\tString"
+			],
+			[
+				"FlxGrou",
+				"FlxTypedGroup"
+			],
+			[
+				"p",
+				"pressed\tBool"
+			],
+			[
+				"canva",
+				"canvasContext"
+			],
+			[
+				"FlxT",
+				"FlxSpriteGroup\tclass"
+			],
+			[
+				"justRe",
+				"justReleased\tBool"
+			],
+			[
 				"type",
 				"types_render_field"
 			],
@@ -280,9 +308,19 @@
 			"file": "source/PlayState.hx",
 			"settings":
 			{
-				"buffer_size": 1199,
+				"buffer_size": 3519,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/Objects.hx",
+			"settings":
+			{
+				"buffer_size": 804,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "package;"
 			}
 		},
 		{
@@ -428,10 +466,15 @@
 	"expanded_folders":
 	[
 		"/C/Users/Benny/Documents/Concordia/Fall 2018/Arth 369/Jerusalem",
+		"/C/Users/Benny/Documents/Concordia/Fall 2018/Arth 369/Jerusalem/assets",
+		"/C/Users/Benny/Documents/Concordia/Fall 2018/Arth 369/Jerusalem/assets/images",
 		"/C/Users/Benny/Documents/Concordia/Fall 2018/Arth 369/Jerusalem/source"
 	],
 	"file_history":
 	[
+		"/C/Users/Benny/AppData/Local/Temp/fz3temp-2/PHPEx.php",
+		"/C/Users/Benny/AppData/Local/Temp/fz3temp-2/main.js",
+		"/C/Users/Benny/Documents/Concordia/Fall 2018/Arth 369/Jerusalem/.gitignore",
 		"/C/Users/Benny/AppData/Local/Temp/fz3temp-2/functions.php",
 		"/C/Users/Benny/AppData/Local/Temp/fz3temp-2/style.css",
 		"/C/Users/Benny/AppData/Local/Temp/fz3temp-2/app.css",
@@ -447,7 +490,6 @@
 		"/C/Users/Benny/AppData/Local/Temp/fz3temp-2/proposal.html",
 		"/C/Users/Benny/AppData/Local/Temp/fz3temp-2/index.html",
 		"/C/Users/Benny/AppData/Local/Temp/fz3temp-2/data.json",
-		"/C/Users/Benny/AppData/Local/Temp/fz3temp-2/main.js",
 		"/C/Users/Benny/AppData/Local/Temp/fz3temp-2/page-bibliography.php",
 		"/C/Users/Benny/AppData/Local/Temp/fz3temp-2/header.php",
 		"/C/Users/Benny/AppData/Local/Temp/fz3temp-2/content-sidebar.css",
@@ -538,7 +580,7 @@
 	],
 	"find":
 	{
-		"height": 40.0
+		"height": 27.0
 	},
 	"find_in_files":
 	{
@@ -552,6 +594,11 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"update",
+			"thebutton",
+			"typeofclic",
+			"click",
+			"velocity",
 			"checkbox",
 			"book-list",
 			"h6.",
@@ -580,7 +627,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -609,7 +656,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
@@ -618,15 +665,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1199,
+						"buffer_size": 3519,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								144,
-								144
+								1618,
+								1618
 							]
 						],
 						"settings":
@@ -635,14 +682,44 @@
 							"syntax": "Packages/Haxe/Haxe.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 446.0,
+						"translation.y": 630.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "source/Objects.hx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 804,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								143,
+								143
+							]
+						],
+						"settings":
+						{
+							"auto_name": "package;",
+							"haxe-build-id": 0,
+							"syntax": "Packages/Haxe/Haxe.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 3,
 					"file": "Project.xml",
 					"semi_transient": false,
 					"settings":
@@ -667,7 +744,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 3,
 					"type": "text"
 				}
 			]

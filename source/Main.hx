@@ -8,6 +8,9 @@ class Main extends Sprite
 	public function new()
 	{
 		super();
-		addChild(new FlxGame(320, 320, PlayState));
+
+		stage.showDefaultContextMenu = false;
+
+		addChild(new FlxGame(240, 240, PlayState, 1, 60, 60, true));
 	}
 }

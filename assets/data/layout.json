@@ -1,0 +1,22 @@
+{
+	"objects": [
+		{
+			"name": "Dome of the Rock",
+			"image": "dome.png",
+			"x": 90,
+			"y": 32
+		},
+		{
+			"name": "Church of the Holy Sepulchre",
+			"image": "church.png",
+			"x": 140,
+			"y": 88
+		},
+		{
+			"name": "Al Aqsa Mosque",
+			"image": "alaqsa.png",
+			"x": 72,
+			"y": 40
+		}
+	]
+}
